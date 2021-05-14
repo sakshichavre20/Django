@@ -8,5 +8,3 @@ class Book(models.Model):
     desc = models.CharField(max_length=100)
     price = models.IntegerField()
 
- 
-
